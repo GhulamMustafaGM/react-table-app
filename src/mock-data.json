@@ -33,5 +33,12 @@
     "address": "99 blue acres",
     "phoneNumber": "3231-962-7516",
     "email": "raymon.edwards@email.com"
+  },
+  {
+    "id": 6,
+    "fullName": "John Doe",
+    "address": "33 blue acres",
+    "phoneNumber": "3232-961-7544",
+    "email": "john.doe@email.com"
   }
 ]
